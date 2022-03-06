@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PabodBRO
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...
 
 <!---
